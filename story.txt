@@ -7,3 +7,5 @@ in vim, use :w to save
 
 in nano, use ctrl x to save and quit 
 
+Chapter two
+it is not easy
