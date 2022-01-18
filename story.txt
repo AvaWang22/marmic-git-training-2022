@@ -1,0 +1,7 @@
+
+No one shall leave VIM!!!!!
+
+hapter one
+use :w to save
+
+
