@@ -2,6 +2,8 @@
 No one shall leave VIM!!!!!
 
 Chapter one
-use :w to save
+in vim, use :w to save
 
+
+in nano, use ctrl x to save and quit 
 
