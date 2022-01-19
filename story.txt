@@ -9,3 +9,6 @@ in nano, use ctrl x to save and quit
 
 Chapter two
 it is not easy
+
+Chapter three
+pull it git!
